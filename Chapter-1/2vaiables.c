@@ -9,7 +9,7 @@ int main ()
     int a = 4;
     // int b = 8.5; // not recommended because 8.5 is not an integer
 
-    float b = 8.5;
+    float b = 9.5;
     char c = 'u';
     int d = 45;
     int e = 45 + 4; 
